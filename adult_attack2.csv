@@ -1,0 +1,12 @@
+age,workclass,,education,education-num,marital-status,,,race,sex,,,,native-country
+, Federal-gov,, 9th,30, Married-civ-spouse,,,, Male,,,,
+25, Private,,,40,,,,, Male,,,, United-States
+28,,,Associate-voc,10, Married-civ-spouse,,,, Male,,,,
+77, Private,, Bachelors,58,,,,, Female,,,, United-States
+45, Local-gov,,,20, Married-civ-spouse,,,, Male,,,, United-States
+84,,, Bachelors,13,,,,,,,,, United-States
+, Private,, Some-college,40,Divorced,,,, Male,,,,
+, Private,, Assoc-acdm,12, Never-married,,,, Male,,,, United-States
+80, Federal-gov,,,30,,,,, Male,,,, United-States
+, Private,,HS-grad,55,Seperated,,,, Male,,,,
+,,,10th,65, Divorced,,,,,,,,

@@ -1,0 +1,12 @@
+age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,income
+80, Federal-gov,76845, 9th,30, Married-civ-spouse, Farming-fishing, Husband, Black, Male,0,0,40, United-States, <=50K
+25, Private,105598,Bachelors,40, Divorced, Tech-support, Not-in-family, White, Male,0,0,58, United-States, <=50K
+28, Self-emp-inc,191681,Associate-voc,10, Married-civ-spouse, Exec-managerial, Husband, White, Male,0,0,50, United-States, >50K
+77, Private,309974, Bachelors,58, Separated, Sales, Own-child, Black, Female,0,0,40, United-States, <=50K
+45, Local-gov,125927,HS-grad,20, Married-civ-spouse, Farming-fishing, Husband, White, Male,0,0,40, United-States, <=50K
+84, Private,160647, Bachelors,13, Married-civ-spouse, Adm-clerical, Wife, White, Female,0,0,40, United-States, >50K
+68, Private,81534, Some-college,40,Divorced, Sales, Husband, Asian-Pac-Islander, Male,0,0,40, United-States, >50K
+36, Private,336367, Assoc-acdm,12, Never-married, Exec-managerial, Unmarried, White, Male,0,0,50, United-States, <=50K
+80, Federal-gov,76845,7th-8th,30, Married-civ-spouse, Farming-fishing, Husband, Black, Male,0,0,40, United-States, <=50K
+68, Private,81534,10th,35,Divorced,other-service, Husband, Asian-Pac-Islander, Male,0,0,40, United-States, >50K
+25, Private,105598,11th,57, Divorced,other-service, Not-in-family, White, Male,0,0,58, United-States, <=50K
